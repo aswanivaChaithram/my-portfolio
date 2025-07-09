@@ -8,15 +8,15 @@ import project6_img from '../assets/project_6.png'
 const mywork_data = [
     {
         w_no:1,
-        w_name:"Food Delivery Website",
-        w_img:project1_img,
-        w_projectLink: "https://meal-tomato-delivery-website.netlify.app"
+        w_name:"Hotel Booking Website",
+        w_img:project6_img,
+        w_projectLink: "https://quickstay-hotel-booking-website.netlify.app/"
     },
     {
         w_no:2,
-        w_name:"Youtube Clone",
-        w_img:project2_img,
-        w_projectLink: "https://aswani-youtube-clone.netlify.app"
+        w_name:"Food Delivery Website",
+        w_img:project1_img,
+        w_projectLink: "https://meal-tomato-delivery-website.netlify.app"
     },
     {
         w_no:3,
@@ -26,21 +26,21 @@ const mywork_data = [
     },
     {
         w_no:4,
+        w_name:"Youtube Clone",
+        w_img:project2_img,
+        w_projectLink: "https://aswani-youtube-clone.netlify.app"
+    },
+    {
+        w_no:5,
         w_name:"Recipe Website",
         w_img:project3_img,
         w_projectLink: "https://mealrecipe-website.netlify.app"
     },
     {
-        w_no:5,
+        w_no:6,
         w_name:"Image Generator Website",
         w_img:project5_img,
         w_projectLink: "https://image-search-engine-web.netlify.app"
-    },
-    {
-        w_no:6,
-        w_name:"Weather Forecast Website",
-        w_img:project6_img,
-        w_projectLink: "https://weathernest-forecasting-website.netlify.app"
     },
 ]
  
