@@ -1,7 +1,7 @@
 import React from 'react'
 import './Hero.css'
 import profile from '../../assets/homeImg.jpg'
-import resume from '../../assets/AswaniResume.pdf'
+import resume from '../../assets/AswaniVAResume.pdf'
 import TypeWriter from 'typewriter-effect'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 
