@@ -17,7 +17,7 @@ const Hero = () => {
                 autoStart: true,
                 loop: true,
                 delay: 50,
-                strings: ["Frontend Developer", "React Developer", "Fresher"]
+                strings: ["Frontend Developer", "React Developer"]
               }}
             />
           </span>
